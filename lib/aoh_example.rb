@@ -11,7 +11,7 @@ def assembled_aoh
 end
 
 def literal_aoh
- [{:name}]
+ [{:name =>}]
 end
 
 def aoh_lookup(aoh, row, key)
